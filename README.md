@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python and Web**
 
-- 🌱 I’m currently learning **Flask,Jinja,Bootstrap 5**
+- 🌱 I’m currently learning **Python, Web, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardaocakkk](https://github.com/ardaocakkk)
 
