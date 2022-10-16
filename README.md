@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardaocakkk](https://github.com/ardaocakkk)
 
-- 📝 I regularly write articles on [https://ardaocakkk.github.io/my-cv/](https://ardaocakkk.github.io/my-cv/)
+- 📝 About me [https://ardaocakkk.github.io/my-cv/](https://ardaocakkk.github.io/my-cv/)
 
 - 💬 Ask me about **Python and CSS**
 
